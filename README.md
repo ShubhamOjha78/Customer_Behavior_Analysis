@@ -68,7 +68,9 @@ Power BI Dashboard includes:
 - 🛒 Product Category Performance  
 - 🌍 Regional Purchase Heatmap  
 
-*(You can replace this line with a Power BI screenshot or link.)*
+- Dashborad Interaction
+-<a href="https://github.com/ShubhamOjha78/Customer_Behavior_Analysis/blob/main/Dashboard.PNG">View Dashboard</a>
+
 
 ---
 
