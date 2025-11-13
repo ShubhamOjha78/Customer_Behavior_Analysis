@@ -74,6 +74,8 @@ Power BI Dashboard includes:
 
 ---
 
+<img width="939" height="458" alt="Dashboard.PNG" src="https://github.com/ShubhamOjha78/Customer_Behavior_Analysis/blob/main/Dashboard.PNG" />
+
 ## 🧾 Results & Insights  
 - Identified top 3 customer segments contributing the most to sales.  
 - Found patterns between age groups and product preferences.  
