@@ -10,9 +10,11 @@ The goal is to uncover insights into customer purchasing patterns and help busin
 ## 📊 Dataset  
 - **Source:** Sample customer transactional dataset  
 - **Format:** CSV / Excel  
-- **Size:** ~10,000 records  
+- **Size:** ~5,000 records  
 - **Key Fields:**  
   `customer_id`, `age`, `gender`, `purchase_amount`, `product_category`, `region`, `purchase_date`
+### Dataset Used
+-<a href="https://github.com/ShubhamOjha78/Customer_Behavior_Analysis/blob/main/customer_shopping_behavior.csv">Dataset</a>
 
 ---
 
@@ -73,8 +75,10 @@ Power BI Dashboard includes:
 
 
 ---
-
+- Dashboard Image
 <img width="939" height="458" alt="Dashboard.PNG" src="https://github.com/ShubhamOjha78/Customer_Behavior_Analysis/blob/main/Dashboard.PNG" />
+
+---
 
 ## 🧾 Results & Insights  
 - Identified top 3 customer segments contributing the most to sales.  
